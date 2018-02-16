@@ -5,3 +5,5 @@ Nope, Nick was here.
 
 ## Collaborators
 - Preston
+- Jeremy
+- Nick
